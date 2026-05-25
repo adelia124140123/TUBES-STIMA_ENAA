@@ -1,0 +1,10 @@
+{
+  "name": "ENAA_Nemesis",
+  "version": "1.0",
+  "authors": ["Adelia Eva Ananta"],
+  "description": "ENAA_Nemesis mengunci satu musuh dan mengejarnya hingga hancur. Bergerak spiral cepat, menembak dengan predictive aiming, dan firepower menyesuaikan jarak. Jika target hilang 10 tick, bot reset dan cari musuh baru.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
