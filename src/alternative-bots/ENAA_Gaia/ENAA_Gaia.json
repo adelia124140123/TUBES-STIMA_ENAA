@@ -1,0 +1,10 @@
+{
+  "name": "ENAA_Gaia",
+  "version": "1.0",
+  "authors": ["Adelia Eva Ananta"],
+  "description": "ENAA_Gaia bergerak memutar lapangan secara kotak sambil menembak dengan predictive aiming. Kalau kena tembak, langsung dodge dengan manuver acak. Firepower menyesuaikan sisa energi.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
