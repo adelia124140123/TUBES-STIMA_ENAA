@@ -1,0 +1,10 @@
+{
+  "name": "ENAA_Poseidon",
+  "version": "1.0",
+  "authors": ["Adelia Eva Ananta"],
+  "description": "ENAA_Poseidon terus bergerak dan berputar sambil menembak siapa saja yang terdeteksi radar dengan firepower penuh. Tidak ada aiming, murni agresif. Kalau kena tembak, bot bergerak maju atau mundur secara acak.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
