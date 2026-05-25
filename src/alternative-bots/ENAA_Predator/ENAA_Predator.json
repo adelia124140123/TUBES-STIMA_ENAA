@@ -1,0 +1,10 @@
+{
+  "name": "ENAA_Predator",
+  "version": "1.0",
+  "authors": ["Adelia Eva Ananta"],
+  "description": "ENAA_Predator bergerak agresif dengan arah dan belok acak tiap 25 tick. Menembak setiap musuh yang terdeteksi, firepower menyesuaikan sisa energi. Kena tembak atau tabrak tembok, langsung balik arah dan manuver acak.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
